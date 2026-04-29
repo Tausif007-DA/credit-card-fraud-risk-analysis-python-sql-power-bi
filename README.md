@@ -119,6 +119,10 @@ Get the CSV from Kaggle (Credit Card Transactions Fraud Detection dataset) and p
 5. Launch targeted fraud awareness programs for customers aged 65 and above
 6. Schedule fraud operations staffing peaks on weekend nights for maximum coverage
 
+   <p align="center">
+  <img src="images/dashboard.png" alt="Credit Card Fraud Dashboard" width="800">
+</p>
+
 ---
 
 ## Author
